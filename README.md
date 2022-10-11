@@ -1,5 +1,7 @@
 # Hangman-game
-A simple 1 round hangman game made with Python. <br/><br/>
+A simple 1 round hangman game made with Python.
+
+
 Try it here: https://replit.com/@prodbysshi/hangman-game
 
 
